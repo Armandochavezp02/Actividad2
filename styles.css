@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://image.winudf.com/v2/image1/Y29tLnFhbmplcnVtYmkud2hpdGUud2hpdGViYWNrZ3JvdW5kX3NjcmVlbl8wXzE1NDE5NzAyMDlfMDQ0/screen-0.jpg?fakeurl=1&type=.jpg);
+}
+
+p {
+    font-family:fantasy;
+    color: dodgerblue
+}
+
+legend {
+    font-family: fantasy;
+    
+}
+
+input {
+    font-family: fantasy;
+}
+
+textarea {
+    font-family: fantasy;
+}
